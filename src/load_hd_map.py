@@ -6,6 +6,7 @@ Created on Feb 9, 2013
 import sqlite3
 import json
 import csv
+import sys
 
 CONN = sqlite3.connect("../HealthDataMap/health.db")
 CONN.text_factory = str
@@ -71,9 +72,17 @@ def load_csv(filename):
     insert(data, '_csv')
 
 def main():
-  create_database()
-  load_data('../HealthDataMap/healthMapFeed.json', 'json')
-  load_data('../HealthDataMap/completeTable.csv', 'csv')
+  try:
+    create_database()
+    load_data('../HealthDataMap/healthMapFeed.json', 'json')
+    load_data('../HealthDataMap/completeTable.csv', 'csv')
+  except sqlite3.Error, e:
+    print "Error %s:" % e.args[0]
+    sys.exit(1)
+  finally:
+    if CONN:
+      CONN.commit()
+      CONN.close()
 
 if __name__ == '__main__':
   main()

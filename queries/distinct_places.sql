@@ -1,0 +1,1 @@
+SELECT DISTINCT country, place, count(*) as DISEASE_COUNT FROM health_data_csv GROUP BY country, place
