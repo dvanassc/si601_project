@@ -4,7 +4,7 @@ Created on Feb 16, 2013
 @author: Derek
 '''
 
-## 1 - Load the csv/json files into ../HealthDataMap/health.db
+## 1 - Create health.db and load the csv/json files into it
 execfile('load_hd_map.py')
 
 ## 2 - Create an outbreak table that compresses diseases by date
