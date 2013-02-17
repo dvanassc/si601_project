@@ -5,7 +5,7 @@ import sys
 '''
 
 #Get the data from the main database
-with sqlite.connect('health.db') as con: 
+with sqlite.connect('../HealthDataMap/health.db') as con: 
   cur = con.cursor() 
   cur.execute("SELECT country, disease, report_date FROM health_data_csv")
   rows = cur.fetchall()
@@ -23,7 +23,7 @@ with sqlite.connect('health.db') as con:
 
 
 #Join table with itself to compare rows on three column values
-with sqlite.connect('health.db') as con: 
+with sqlite.connect('../HealthDataMap/health.db') as con: 
   cur = con.cursor() 
   cur.execute('''
     select DISTINCT a.country, a.disease, a.date_short
