@@ -5,7 +5,7 @@ python2 make_outbreak_table.py
 '''
 
 #Get the data from the main database
-with sqlite.connect('health.db') as con: 
+with sqlite.connect('../HealthDataMap/health.db') as con: 
   cur = con.cursor() 
   cur.execute('''select country, disease, date(report_date) as short_date
                 from health_data_csv
