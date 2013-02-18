@@ -16,10 +16,10 @@ with open('un_pop_data.csv','rU') as csvfile:
         l =(row[0],row[1],row[65])
         data.append(l)        
         
-with sqlite.connect('health.db') as con: 
+with sqlite.connect('../HealthDataMap/health.db') as con: 
   con.text_factory = str
   cur = con.cursor() 
-  cur.execute("DROP TABLE IF EXISTS un_pop_data")
-  cur.execute("CREATE TABLE un_pop_data(Country TEXT, ISO_Code TEXT, Population_2012 INTEGER)")
-  cur.executemany("INSERT INTO un_pop_data VALUES (?, ?, ?)", data)
+  cur.execute("DROP TABLE IF EXISTS populations")
+  cur.execute("CREATE TABLE populations(Country TEXT, ISO_Code TEXT, Population_2012 INTEGER)")
+  cur.executemany("INSERT INTO populations VALUES (?, ?, ?)", data)
 
