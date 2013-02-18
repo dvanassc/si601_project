@@ -5,7 +5,10 @@ import sqlite3 as sqlite
 Draft by Allison Bailey (ambail)
 
 Purpose: Create Population Table Based on UN CSV for 2012 Population Estimates
-(Made in 2010). Apparently, the UN only comes out with new estimates every
+(Made in 2010), obtained from Guardian UK: 
+http://www.guardian.co.uk/news/datablog/2011/may/06/world-population-country-un#data
+
+Apparently, the UN only comes out with new estimates every
 two years - we're in between updates.
 '''
 
