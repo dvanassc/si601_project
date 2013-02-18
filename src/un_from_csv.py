@@ -9,7 +9,7 @@ Purpose: Create Population Table Based on UN CSV for 2012 Population Estimates
 two years - we're in between updates.
 '''
 
-with open('un_pop_data.csv','rU') as csvfile:
+with open('../HealthDataMap/un_pop_data.csv','rU') as csvfile:
     popreader = csv.reader(csvfile)
     data = []
     for row in popreader:
