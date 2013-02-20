@@ -9,9 +9,9 @@ Algeria	Foodborne Illness	5
 Algeria	West Nile Virus	2
 Algeria	HIV/AIDS	1
 Algeria	Malaria	1
-Angola	Measles	18
+Angola	Measles	11
 Angola	Cholera	5
-Angola	Peste des petits ruminants	4
+Angola	Peste des petits ruminants	3
 Angola	Diarrhea	2
 Angola	Dengue	1
 Angola	Gastroenteritis	1
@@ -20,16 +20,16 @@ Angola	Polio	1
 Angola	Rabies	1
 Angola	Tuberculosis	1
 Angola	Typhoid	1
-Argentina	Swine Flu H1N1	100
-Argentina	Hantavirus	21
-Argentina	Influenza	17
-Argentina	Trichinosis	13
-Argentina	Meningitis	12
-Argentina	Dengue	7
-Argentina	Hemorrhagic Fever	7
+Argentina	Swine Flu H1N1	49
+Argentina	Influenza	13
+Argentina	Trichinosis	12
+Argentina	Hantavirus	11
+Argentina	Meningitis	9
+Argentina	Dengue	6
 Argentina	Whooping Cough	4
-Argentina	Poisoning	3
+Argentina	Hemorrhagic Fever	3
 Argentina	Gastroenteritis	2
+Argentina	Poisoning	2
 Argentina	Rabies	2
 Argentina	Anthrax	1
 Argentina	Bronchitis/Bronchiolitis	1
@@ -49,24 +49,23 @@ Argentina	Respiratory Illness	1
 Argentina	Syphilis	1
 Argentina	Tetanus	1
 Argentina	Yellow Fever	1
-Armenia	Anthrax	8
+Armenia	Anthrax	6
 Armenia	Chicken Pox	1
-Australia	Influenza	20
-Australia	Measles	7
-Australia	HIV/AIDS	6
+Australia	Influenza	16
+Australia	Measles	6
 Australia	Other Animal Disease	6
 Australia	Nipah/Hendra Virus	4
 Australia	Norovirus	4
-Australia	Pests	4
 Australia	Tuberculosis	4
 Australia	Gastroenteritis	3
 Australia	Hepatitis	3
+Australia	Pests	3
 Australia	Scabies	3
+Australia	HIV/AIDS	2
 Australia	Other Plant Disease	2
 Australia	Parvovirus	2
 Australia	Salmonella	2
 Australia	Syphilis	2
-Australia	Tularemia	2
 Australia	Algae	1
 Australia	Animal Die-off	1
 Australia	Avian Influenza	1
@@ -83,12 +82,13 @@ Australia	Ross River Virus	1
 Australia	Shingles	1
 Australia	Swine Flu H1N1	1
 Australia	Tick-borne disease	1
+Australia	Tularemia	1
 Australia	Typhoid	1
 Australia	Vaccine Complication	1
-Austria	Salmonella	4
+Austria	Salmonella	3
 Austria	Schmallenberg	1
 Austria	West Nile Virus	1
-Azerbaijan	Anthrax	3
+Azerbaijan	Anthrax	2
 Azerbaijan	Gastroenteritis	1
 Azerbaijan	Tuberculosis	1
 Bahrain	Other Animal Disease	1
@@ -99,10 +99,10 @@ Bangladesh	Other Plant Disease	1
 Barbados	Dengue	1
 Belarus	HIV/AIDS	1
 Belarus	Influenza	1
-Belgium	Salmonella	5
-Belgium	Equine Infectious Anemia	2
+Belgium	Salmonella	4
 Belgium	Melioidosis	2
 Belgium	Environmental	1
+Belgium	Equine Infectious Anemia	1
 Belgium	Food-related toxin	1
 Belgium	Foodborne Illness	1
 Belgium	Gastroenteritis	1
@@ -110,23 +110,23 @@ Belgium	Legionnaires'	1
 Belgium	Leptospirosis	1
 Belgium	Schmallenberg	1
 Belgium	West Nile Virus	1
-Benin	Cholera	2
+Benin	Cholera	1
 Benin	Foodborne Illness	1
 Benin	Gastroenteritis	1
 Benin	Malaria	1
-Bhutan	Anthrax	3
+Bhutan	Anthrax	2
 Bhutan	Avian Influenza	2
-Bhutan	Chikungunya	2
-Bhutan	Hepatitis B	2
 Bhutan	Rabies	2
+Bhutan	Chikungunya	1
 Bhutan	Dengue	1
 Bhutan	Foot and Mouth	1
+Bhutan	Hepatitis B	1
 Bhutan	Influenza	1
-Bolivia	Dengue	10
+Bolivia	Dengue	7
 Bolivia	Swine Flu H1N1	4
 Bolivia	Influenza	3
-Bolivia	Rabies	3
-Bolivia	West Nile Virus	3
+Bolivia	Rabies	2
+Bolivia	West Nile Virus	2
 Bolivia	Brucellosis	1
 Bolivia	Chagas	1
 Bolivia	Diarrhea	1
@@ -134,29 +134,28 @@ Bolivia	Foot and Mouth	1
 Bolivia	Malaria	1
 Bolivia	St. Louis Encephalitis	1
 Bolivia	Yellow Fever	1
-Brazil	Dengue	197
-Brazil	Swine Flu H1N1	112
-Brazil	Meningitis	35
-Brazil	Chicken Pox	17
-Brazil	Influenza	15
-Brazil	Swine Flu H3N2	12
-Brazil	Tuberculosis	11
-Brazil	Rabies	10
-Brazil	Fever	8
-Brazil	Rocky Mountain Spotted Fever	8
-Brazil	Chagas	7
-Brazil	Yellow Fever	6
-Brazil	Hantavirus	5
-Brazil	Diarrhea	3
-Brazil	Malaria	3
-Brazil	Salmonella	3
+Brazil	Dengue	67
+Brazil	Swine Flu H1N1	34
+Brazil	Meningitis	20
+Brazil	Chicken Pox	12
+Brazil	Influenza	12
+Brazil	Swine Flu H3N2	9
+Brazil	Tuberculosis	9
+Brazil	Rocky Mountain Spotted Fever	7
+Brazil	Fever	5
+Brazil	Chagas	4
+Brazil	Yellow Fever	4
 Brazil	Antibiotic resistance	2
 Brazil	Botulism	2
+Brazil	Diarrhea	2
 Brazil	Foodborne Illness	2
+Brazil	Hantavirus	2
 Brazil	Leptospirosis	2
+Brazil	Malaria	2
 Brazil	Other Plant Disease	2
 Brazil	Pneumonia	2
 Brazil	Poisoning	2
+Brazil	Rabies	2
 Brazil	Conjunctivitis	1
 Brazil	Hospital-Related Infection	1
 Brazil	Leishmaniasis	1
@@ -164,39 +163,39 @@ Brazil	Not Yet Classified	1
 Brazil	Other Human Disease	1
 Brazil	P. aeruginosa	1
 Brazil	Pests	1
+Brazil	Salmonella	1
 Brazil	Staph	1
 Brazil	Trypanosomiasis	1
 Brazil	Whooping Cough	1
 Bulgaria	Hepatitis A	2
 Burkina Faso	Cholera	1
 Burundi	Cholera	1
-Cambodia	Dengue	12
+Cambodia	Dengue	10
 Cambodia	Influenza	3
 Cambodia	Chronic/Non-Infectious Disease	2
 Cambodia	HFM-Enterovirus71	2
 Cambodia	Chikungunya	1
 Cambodia	Not Yet Classified	1
-Cameroon	Classical Swine Fever	2
+Cameroon	Classical Swine Fever	1
 Cameroon	E. coli	1
 Cameroon	Influenza	1
-Canada	E. coli	92
-Canada	Legionnaires'	58
-Canada	Salmonella	30
-Canada	Waterborne Illness	25
-Canada	West Nile Virus	25
-Canada	Not Yet Classified	18
+Canada	E. coli	31
+Canada	Legionnaires'	29
+Canada	Waterborne Illness	17
+Canada	West Nile Virus	17
+Canada	Salmonella	14
 Canada	Whooping Cough	13
-Canada	Norovirus	11
-Canada	Animal Die-off	10
-Canada	Swine Flu H1N1	10
-Canada	Equine Infectious Anemia	8
-Canada	Measles	7
-Canada	Syphilis	7
+Canada	Norovirus	10
+Canada	Animal Die-off	7
+Canada	Not Yet Classified	7
 Canada	Influenza	6
 Canada	Listeriosis	6
-Canada	Anthrax	5
+Canada	Measles	6
+Canada	Syphilis	6
 Canada	C. difficile	5
 Canada	Other Animal Disease	5
+Canada	Anthrax	4
+Canada	Equine Infectious Anemia	4
 Canada	MRSA	4
 Canada	Ringworm	4
 Canada	Algae	3
@@ -204,7 +203,6 @@ Canada	Environmental	3
 Canada	Lyme Disease	3
 Canada	Other Plant Disease	3
 Canada	Pests	3
-Canada	Swine Flu H3N2	3
 Canada	Tuberculosis	3
 Canada	Canine distemper	2
 Canada	Diarrhea	2
@@ -212,6 +210,8 @@ Canada	Enterococcus	2
 Canada	Hand, Foot and Mouth Disease	2
 Canada	Meningitis	2
 Canada	Scabies	2
+Canada	Swine Flu H1N1	2
+Canada	Swine Flu H3N2	2
 Canada	Antibiotic resistance	1
 Canada	Cholera	1
 Canada	Dengue	1
@@ -226,79 +226,79 @@ Canada	Plague	1
 Canada	Sexually Transmitted Infection	1
 Canada	Typhoid	1
 Canada	Viral Meningitis	1
-Cape Verde	Cholera	3
+Cape Verde	Cholera	2
 Central African Republic	Trypanosomiasis	1
 Chad	Guinea Worm	2
 Chad	Diarrhea	1
 Chad	Malaria	1
 Chad	Polio	1
-Chile	Meningitis	22
-Chile	Poisoning	9
-Chile	Hantavirus	8
+Chile	Meningitis	11
+Chile	Poisoning	8
+Chile	Hantavirus	6
 Chile	Influenza	6
-Chile	C. difficile	4
-Chile	Foodborne Illness	3
+Chile	C. difficile	2
+Chile	Foodborne Illness	2
 Chile	Meningitis - Neisseria	2
-Chile	Other Animal Disease	2
-Chile	Other Plant Disease	2
 Chile	Whooping Cough	2
 Chile	Bronchitis/Bronchiolitis	1
 Chile	Cholera	1
 Chile	Echinococcosis	1
-China	Anthrax	226
-China	Not Yet Classified	168
-China	Cholera	144
-China	Avian Influenza	59
-China	Plague	54
-China	Dengue	52
-China	Hand, Foot and Mouth Disease	40
-China	HIV/AIDS	32
-China	Coronavirus	30
-China	Foot and Mouth	26
-China	Influenza	13
-China	Poisoning	12
-China	Gastroenteritis	10
-China	Pests	10
-China	Measles	9
-China	Rabies	9
-China	Dysentery	8
-China	Japanese Encephalitis	8
-China	SARS	8
-China	Diarrhea	7
-China	Babesiosis	6
+Chile	Other Animal Disease	1
+Chile	Other Plant Disease	1
+China	Not Yet Classified	56
+China	Dengue	29
+China	Cholera	26
+China	Anthrax	20
+China	Hand, Foot and Mouth Disease	20
+China	HIV/AIDS	17
+China	Avian Influenza	11
+China	Plague	11
+China	Coronavirus	9
+China	Foot and Mouth	9
+China	Gastroenteritis	9
+China	Pests	8
+China	Influenza	7
+China	SARS	7
+China	Diarrhea	6
+China	Dysentery	6
 China	Foodborne Illness	6
+China	Measles	6
 China	Meningitis	6
+China	Poisoning	5
+China	Rabies	5
 China	E. coli	4
 China	Food-related toxin	4
-China	Leprosy	4
 China	Pneumonia	4
-China	Antibiotic resistance	3
-China	Enterovirus	3
-China	Human Bocavirus	3
+China	Babesiosis	3
+China	Japanese Encephalitis	3
 China	Norovirus	3
-China	Other Plant Disease	3
-China	Sexually Transmitted Infection	3
-China	West Nile Virus	3
 China	African Swine Fever	2
+China	Antibiotic resistance	2
 China	Encephalitis	2
-China	Hepatitis	2
+China	Enterovirus	2
+China	Leprosy	2
+China	Sexually Transmitted Infection	2
 China	Swine Flu H1N1	2
-China	Tuberculosis	2
 China	Undiagnosed	2
 China	Vaccine Complication	2
+China	West Nile Virus	2
 China	Ebola	1
 China	HFM-Enterovirus71	1
+China	Hepatitis	1
+China	Human Bocavirus	1
 China	Malaria	1
 China	Other Human Disease	1
+China	Other Plant Disease	1
 China	Respiratory Illness	1
 China	Salmonella	1
 China	Syphilis	1
 China	Tick-borne disease	1
+China	Tuberculosis	1
 China	Typhoid	1
 China	Vibrio vulnificus	1
 China	Whooping Cough	1
-Colombia	Dengue	40
-Colombia	Chicken Pox	9
+Colombia	Dengue	24
+Colombia	Chicken Pox	7
 Colombia	Meningitis	4
 Colombia	Cholera	3
 Colombia	Poisoning	3
@@ -306,7 +306,7 @@ Colombia	Influenza	1
 Colombia	Respiratory Illness	1
 Colombia	Tuberculosis	1
 Colombia	Whooping Cough	1
-Costa Rica	Dengue	15
+Costa Rica	Dengue	9
 Costa Rica	Diarrhea	4
 Costa Rica	Influenza	4
 Costa Rica	Whooping Cough	2
@@ -315,37 +315,37 @@ Costa Rica	Respiratory Illness	1
 Cote d'Ivoire	Cholera	3
 Cote d'Ivoire	Diarrhea	1
 Cote d'Ivoire	Other Plant Disease	1
-Croatia	West Nile Virus	9
-Cuba	Cholera	44
-Cuba	Dengue	28
+Croatia	West Nile Virus	5
+Cuba	Cholera	19
+Cuba	Dengue	19
 Cuba	Influenza	4
 Cuba	Other Animal Disease	1
 Cuba	Pests	1
-Czech Republic	Salmonella	4
 Czech Republic	Poisoning	3
+Czech Republic	Salmonella	3
 Czech Republic	Not Yet Classified	1
-DR Congo	Ebola	166
-DR Congo	Cholera	15
-DR Congo	Monkeypox	3
-DR Congo	Not Yet Classified	3
+DR Congo	Ebola	50
+DR Congo	Cholera	13
 DR Congo	Peste des petits ruminants	3
 DR Congo	Hemorrhagic Fever	2
 DR Congo	Malaria	2
 DR Congo	Measles	2
 DR Congo	Meningitis	2
+DR Congo	Monkeypox	2
+DR Congo	Not Yet Classified	2
 DR Congo	Chikungunya	1
 DR Congo	Onchocerciasis	1
 DR Congo	Rabies	1
 DR Congo	Undiagnosed	1
-Denmark	Coronavirus	7
-Denmark	Schmallenberg	5
+Denmark	Coronavirus	2
+Denmark	Schmallenberg	2
 Denmark	Anthrax	1
 Denmark	Influenza	1
 Denmark	SARS	1
-Dominican Republic	Dengue	72
-Dominican Republic	Cholera	42
-Dominican Republic	Other Animal Disease	4
+Dominican Republic	Dengue	41
+Dominican Republic	Cholera	22
 Dominican Republic	Diarrhea	3
+Dominican Republic	Other Animal Disease	3
 Dominican Republic	Swine Flu H1N1	1
 Dominican Republic	Typhoid	1
 Dominican Republic	Whooping Cough	1
@@ -354,22 +354,22 @@ Ecuador	Influenza	3
 Ecuador	Ebola	1
 Ecuador	Poisoning	1
 Ecuador	Whooping Cough	1
-Egypt	Mumps	91
-Egypt	Foodborne Illness	25
-Egypt	Waterborne Illness	21
-Egypt	Gastroenteritis	17
-Egypt	Avian Influenza	10
-Egypt	Poisoning	10
-Egypt	Peste des petits ruminants	7
-Egypt	Food-related toxin	6
-Egypt	Chicken Pox	4
+Egypt	Mumps	27
+Egypt	Foodborne Illness	17
+Egypt	Gastroenteritis	12
+Egypt	Waterborne Illness	12
+Egypt	Avian Influenza	9
+Egypt	Poisoning	6
+Egypt	Food-related toxin	5
+Egypt	Chicken Pox	3
+Egypt	Peste des petits ruminants	3
 Egypt	Conjunctivitis	2
 Egypt	Foot and Mouth	2
 Egypt	Not Yet Classified	2
-Egypt	Typhoid	2
 Egypt	Undiagnosed	2
 Egypt	Ringworm	1
-El Salvador	Dengue	54
+Egypt	Typhoid	1
+El Salvador	Dengue	38
 El Salvador	Influenza	4
 El Salvador	Whooping Cough	4
 El Salvador	Other Plant Disease	2
@@ -379,33 +379,33 @@ El Salvador	E. coli	1
 Estonia	Salmonella	3
 Estonia	Animal Die-off	1
 Estonia	Dysentery	1
-Ethiopia	Foot and Mouth	7
 Ethiopia	Guinea Worm	2
+Ethiopia	Foot and Mouth	1
 Ethiopia	Measles	1
 Fiji	Typhoid	2
 Fiji	Norovirus	1
-Finland	Listeriosis	3
 Finland	Schmallenberg	2
-France	Meningitis	14
+Finland	Listeriosis	1
+France	Meningitis	8
 France	Food-related toxin	5
-France	Salmonella	5
 France	Scabies	5
-France	Dengue	3
+France	Salmonella	4
 France	Hantavirus	3
 France	Legionnaires'	3
 France	Measles	3
 France	Brucellosis	2
-France	Chikungunya	2
+France	Dengue	2
 France	E. coli	2
 France	Foodborne Illness	2
-France	Gastroenteritis	2
 France	Hepatitis A	2
 France	Schmallenberg	2
 France	Amoeba	1
 France	Anthrax	1
 France	Bovine TB	1
 France	CJD	1
+France	Chikungunya	1
 France	Equine Infectious Anemia	1
+France	Gastroenteritis	1
 France	Meningitis - Neisseria	1
 France	Norovirus	1
 France	Parvovirus	1
@@ -413,15 +413,14 @@ France	Tuberculosis	1
 France	Vaccine Complication	1
 France	Waterborne Illness	1
 France	West Nile Virus	1
-Gambia	Bovine Pleuropneumonia	6
+Gambia	Bovine Pleuropneumonia	4
 Gambia	Malaria	1
-Germany	Gastroenteritis	32
-Germany	Equine Infectious Anemia	14
-Germany	Norovirus	13
-Germany	Salmonella	5
-Germany	Foodborne Illness	4
+Germany	Gastroenteritis	9
+Germany	Equine Infectious Anemia	6
+Germany	Norovirus	6
+Germany	Salmonella	4
 Germany	Anthrax	3
-Germany	E. coli	3
+Germany	Foodborne Illness	2
 Germany	Hospital-Related Infection	2
 Germany	Legionnaires'	2
 Germany	Meningitis	2
@@ -431,6 +430,7 @@ Germany	African Swine Fever	1
 Germany	Animal Die-off	1
 Germany	Aspergillosis	1
 Germany	Diarrhea	1
+Germany	E. coli	1
 Germany	Hantavirus	1
 Germany	Herpes	1
 Germany	Malaria	1
@@ -438,32 +438,32 @@ Germany	Not Yet Classified	1
 Germany	Other Plant Disease	1
 Germany	Schmallenberg	1
 Germany	Vibrio parahaemolyticus	1
-Ghana	Cholera	9
+Ghana	Cholera	8
 Ghana	Influenza	8
 Ghana	Malaria	4
 Ghana	Rabies	2
 Ghana	HIV/AIDS	1
-Greece	West Nile Virus	17
-Greece	Malaria	10
-Greece	Bluetongue	8
-Greece	Dengue	7
-Greece	Other Animal Disease	3
-Greece	Rabies	3
-Greece	Anthrax	2
+Greece	West Nile Virus	9
+Greece	Malaria	8
+Greece	Bluetongue	4
+Greece	Dengue	2
+Greece	Rabies	2
+Greece	Anthrax	1
 Greece	Legionnaires'	1
-Guatemala	Dengue	11
-Guatemala	Classical Swine Fever	4
-Guatemala	Typhoid	2
+Greece	Other Animal Disease	1
+Guatemala	Dengue	8
+Guatemala	Classical Swine Fever	3
 Guatemala	African Swine Fever	1
 Guatemala	Other Plant Disease	1
 Guatemala	Poisoning	1
-Guinea	Cholera	88
+Guatemala	Typhoid	1
+Guinea	Cholera	28
 Guinea	West Nile Virus	2
-Guinea-Bissau	Cholera	4
+Guinea-Bissau	Cholera	3
 Guyana	Foot and Mouth	1
-Haiti	Cholera	33
-Honduras	Dengue	69
-Honduras	Chagas	5
+Haiti	Cholera	20
+Honduras	Dengue	43
+Honduras	Chagas	4
 Honduras	Diarrhea	3
 Honduras	Hepatitis	3
 Honduras	Influenza	3
@@ -475,21 +475,21 @@ Honduras	African Swine Fever	1
 Honduras	Malaria	1
 Honduras	Poisoning	1
 Honduras	West Nile Virus	1
-Hungary	Salmonella	4
+Hungary	Salmonella	3
 Hungary	Syphilis	2
 Hungary	West Nile Virus	1
-Iceland	Other Animal Disease	4
-India	Dengue	266
-India	Swine Flu H1N1	62
-India	Malaria	27
-India	Scrub Typhus	16
-India	Encephalitis	12
-India	Avian Influenza	8
-India	Chikungunya	8
+Iceland	Other Animal Disease	3
+India	Dengue	71
+India	Swine Flu H1N1	38
+India	Malaria	20
+India	Scrub Typhus	13
+India	Encephalitis	10
 India	Diarrhea	8
+India	Chikungunya	7
 India	Gastroenteritis	7
 India	Influenza	7
-India	Polio	7
+India	Polio	6
+India	Avian Influenza	5
 India	Conjunctivitis	5
 India	Foot and Mouth	5
 India	Rabies	5
@@ -513,96 +513,96 @@ India	Meningitis	1
 India	Other Plant Disease	1
 India	Tuberculosis	1
 India	Waterborne Illness	1
-Indonesia	Avian Influenza	18
-Indonesia	Chikungunya	11
+Indonesia	Chikungunya	7
+Indonesia	Avian Influenza	6
 Indonesia	Hemorrhagic Fever	4
 Indonesia	Diarrhea	3
 Indonesia	E. coli	3
-Indonesia	Hand, Foot and Mouth Disease	2
 Indonesia	Rabies	2
 Indonesia	Vibrio parahaemolyticus	2
 Indonesia	Chronic/Non-Infectious Disease	1
 Indonesia	Conjunctivitis	1
 Indonesia	Dysentery	1
 Indonesia	Encephalitis	1
+Indonesia	Hand, Foot and Mouth Disease	1
 Indonesia	Not Yet Classified	1
 Indonesia	Respiratory Illness	1
 Indonesia	Waterborne Illness	1
-Iran	Foot and Mouth	11
-Iran	Not Yet Classified	3
 Iran	Dengue	1
+Iran	Foot and Mouth	1
+Iran	Not Yet Classified	1
 Iran	Waterborne Illness	1
-Iraq	Cholera	13
+Iraq	Cholera	8
 Iraq	Diarrhea	1
 Iraq	Foot and Mouth	1
 Iraq	Not Yet Classified	1
 Iraq	Poisoning	1
 Iraq	Tuberculosis	1
 Ireland	Environmental	3
-Ireland	MRSA	2
 Ireland	Norovirus	2
-Ireland	Other Animal Disease	2
 Ireland	Schmallenberg	2
 Ireland	Animal Die-off	1
 Ireland	Diarrhea	1
 Ireland	Food-related toxin	1
 Ireland	Hantavirus	1
+Ireland	MRSA	1
+Ireland	Other Animal Disease	1
 Ireland	Salmonella	1
 Ireland	Waterborne Illness	1
 Ireland	Whooping Cough	1
-Israel	Lumpy Skin Disease	21
-Israel	Anthrax	3
-Israel	Newcastle Disease	3
+Israel	Lumpy Skin Disease	8
 Israel	Botulism	2
 Israel	Leishmaniasis	2
-Israel	Tuberculosis	2
+Israel	Newcastle Disease	2
+Israel	Anthrax	1
 Israel	Diarrhea	1
 Israel	Gastroenteritis	1
 Israel	Hepatitis A	1
 Israel	Legionnaires'	1
 Israel	Measles	1
 Israel	Rabies	1
+Israel	Tuberculosis	1
 Israel	West Nile Virus	1
-Italy	Meningitis	8
-Italy	West Nile Virus	8
-Italy	Anthrax	4
-Italy	Avian Influenza	4
+Italy	West Nile Virus	5
+Italy	Anthrax	3
 Italy	Bacterial Meningitis	3
 Italy	Bluetongue	3
+Italy	Meningitis	3
+Italy	Avian Influenza	2
 Italy	Meningitis - Neisseria	2
-Italy	Pneumonia	2
 Italy	Japanese Encephalitis	1
 Italy	Pests	1
-Jamaica	Dengue	9
+Italy	Pneumonia	1
+Jamaica	Dengue	8
 Jamaica	Influenza	2
 Jamaica	Gastroenteritis	1
-Japan	E. coli	15
-Japan	Foot and Mouth	7
+Japan	E. coli	6
 Japan	Not Yet Classified	5
+Japan	Foot and Mouth	4
 Japan	Avian Influenza	1
 Japan	Gastroenteritis	1
 Japan	HFM-Enterovirus71	1
 Japan	Malaria	1
 Japan	Measles	1
-Jordan	Foodborne Illness	9
+Jordan	Foodborne Illness	6
 Jordan	Tuberculosis	3
 Jordan	Gastroenteritis	1
 Jordan	Malaria	1
 Jordan	Pneumonia	1
 Jordan	Waterborne Illness	1
-Kazakhstan	Anthrax	4
+Kazakhstan	Anthrax	3
 Kazakhstan	African Swine Fever	2
 Kazakhstan	Undiagnosed	2
 Kazakhstan	Not Yet Classified	1
 Kazakhstan	Other Plant Disease	1
 Kazakhstan	Typhoid	1
-Kenya	Measles	13
-Kenya	Ebola	6
-Kenya	Anthrax	5
+Kenya	Measles	9
 Kenya	Peste des petits ruminants	5
+Kenya	Anthrax	4
+Kenya	Ebola	4
 Kenya	Malaria	4
-Kenya	Cholera	3
 Kenya	Influenza	3
+Kenya	Cholera	2
 Kenya	Rift Valley Fever	2
 Kenya	Diarrhea	1
 Kenya	Filariasis	1
@@ -612,21 +612,21 @@ Kenya	Undiagnosed	1
 Kuwait	Foodborne Illness	1
 Kuwait	Hepatitis	1
 Kuwait	Hepatitis A	1
-Kyrgyzstan	Anthrax	5
-Kyrgyzstan	Hepatitis A	2
+Kyrgyzstan	Anthrax	3
+Kyrgyzstan	Hepatitis A	1
 Kyrgyzstan	Sheep/Goat Pox	1
 Kyrgyzstan	Vaccine Complication	1
 Laos	Dengue	1
-Latvia	African Swine Fever	3
-Latvia	Tularemia	3
+Latvia	African Swine Fever	2
+Latvia	Tularemia	2
 Lebanon	Gastroenteritis	1
 Lebanon	Hantavirus	1
-Liberia	Cholera	2
+Liberia	Cholera	1
 Libya	Foot and Mouth	1
 Madagascar	Influenza	7
 Madagascar	Foodborne Illness	1
-Malawi	Cholera	4
 Malawi	Chicken Pox	2
+Malawi	Cholera	2
 Malawi	Rabies	2
 Malaysia	Dengue	5
 Malaysia	Cholera	3
@@ -637,37 +637,37 @@ Malaysia	HFM-Enterovirus71	1
 Malaysia	Malaria	1
 Malaysia	Swine Flu H1N1	1
 Malaysia	Tuberculosis	1
-Mali	Cholera	7
+Mali	Cholera	4
 Mali	Guinea Worm	2
 Mali	Diarrhea	1
 Malta	Legionnaires'	1
 Malta	Scabies	1
 Marshall Islands	Dengue	1
-Mauritania	Rift Valley Fever	8
-Mauritania	Malaria	2
+Mauritania	Rift Valley Fever	6
 Mauritania	Foodborne Illness	1
 Mauritania	Foot and Mouth	1
+Mauritania	Malaria	1
 Mauritius	Influenza	1
-Mexico	Dengue	408
-Mexico	West Nile Virus	69
-Mexico	Avian Influenza	42
-Mexico	Diarrhea	15
+Mexico	Dengue	87
+Mexico	West Nile Virus	27
+Mexico	Avian Influenza	22
+Mexico	Diarrhea	11
 Mexico	Cholera	10
-Mexico	Hepatitis A	9
+Mexico	Hepatitis A	8
 Mexico	Poisoning	8
-Mexico	Influenza	7
-Mexico	Hepatitis	6
+Mexico	Influenza	6
 Mexico	Respiratory Illness	6
 Mexico	Salmonella	6
-Mexico	Swine Flu H1N1	6
-Mexico	Brucellosis	5
-Mexico	Foodborne Illness	5
-Mexico	Rabies	5
-Mexico	E. coli	4
+Mexico	Swine Flu H1N1	5
+Mexico	Foodborne Illness	4
+Mexico	Hepatitis	4
 Mexico	Lice	4
 Mexico	Meningitis	4
-Mexico	Chicken Pox	3
+Mexico	Rabies	4
+Mexico	Brucellosis	3
 Mexico	Tuberculosis	3
+Mexico	Chicken Pox	2
+Mexico	E. coli	2
 Mexico	Fever	2
 Mexico	Plague	2
 Mexico	Rickettsia	2
@@ -692,11 +692,11 @@ Mexico	Scabies	1
 Mexico	Strep	1
 Mexico	Syphilis	1
 Moldova	African Swine Fever	2
-Mongolia	Classical Swine Fever	2
-Morocco	Whooping Cough	4
+Mongolia	Classical Swine Fever	1
 Morocco	Gastroenteritis	3
-Morocco	Meningitis	2
+Morocco	Whooping Cough	3
 Morocco	Foodborne Illness	1
+Morocco	Meningitis	1
 Morocco	Not Yet Classified	1
 Morocco	Poisoning	1
 Morocco	Waterborne Illness	1
@@ -709,30 +709,30 @@ Myanmar	Respiratory Illness	1
 Namibia	Animal Die-off	2
 Namibia	Measles	2
 Namibia	Rabies	2
-Nepal	Fever	9
-Nepal	Cholera	8
-Nepal	Avian Influenza	5
-Nepal	Swine Flu H1N1	5
+Nepal	Fever	7
+Nepal	Cholera	3
 Nepal	Influenza	3
-Nepal	Environmental	2
+Nepal	Avian Influenza	2
 Nepal	Measles	2
+Nepal	Swine Flu H1N1	2
 Nepal	Undiagnosed	2
 Nepal	Diarrhea	1
+Nepal	Environmental	1
 Nepal	Other Human Disease	1
 Nepal	Polio	1
 Nepal	Typhoid	1
-Netherlands	Salmonella	20
-Netherlands	Avian Influenza	5
+Netherlands	Salmonella	9
+Netherlands	Avian Influenza	4
 Netherlands	Schmallenberg	2
 Netherlands	Animal Die-off	1
 Netherlands	Environmental	1
 Netherlands	Foodborne Illness	1
 Netherlands	Protozoa, miscellaneous	1
 Netherlands	Swine Flu H1N1	1
-New Zealand	Norovirus	22
-New Zealand	Influenza	8
+New Zealand	Norovirus	18
+New Zealand	Influenza	7
 New Zealand	Other Plant Disease	6
-New Zealand	Gastroenteritis	5
+New Zealand	Gastroenteritis	4
 New Zealand	Listeriosis	2
 New Zealand	Meningitis - Neisseria	2
 New Zealand	Waterborne Illness	2
@@ -744,44 +744,43 @@ New Zealand	Other Animal Disease	1
 New Zealand	Syphilis	1
 New Zealand	Tuberculosis	1
 New Zealand	Typhoid	1
-Nicaragua	Dengue	9
+Nicaragua	Dengue	5
 Nicaragua	Influenza	3
 Nicaragua	African Swine Fever	1
 Nicaragua	Chronic/Non-Infectious Disease	1
-Niger	Cholera	4
+Niger	Cholera	3
 Niger	Malaria	1
-Nigeria	Polio	31
-Nigeria	Rabies	7
+Nigeria	Polio	17
+Nigeria	Rabies	6
 Nigeria	Lassa Fever	3
-Nigeria	Undiagnosed	3
 Nigeria	Cholera	2
 Nigeria	Measles	2
+Nigeria	Undiagnosed	2
 Nigeria	Yellow Fever	2
 Nigeria	Other Animal Disease	1
 Nigeria	Poisoning	1
 Nigeria	Schistosomiasis	1
 Nigeria	Tuberculosis	1
 Nigeria	Typhoid	1
-Norway	Other Animal Disease	5
+Norway	Other Animal Disease	3
 Norway	Gastroenteritis	1
 Norway	Salmonella	1
 Norway	Schmallenberg	1
 Norway	Tuberculosis	1
 Oman	Gastroenteritis	1
 Oman	Other Plant Disease	1
-Pakistan	Dengue	53
-Pakistan	Polio	30
-Pakistan	Measles	13
-Pakistan	Crimean-Congo Hemorrhagic Fever	6
-Pakistan	Amoeba	5
+Pakistan	Dengue	37
+Pakistan	Polio	17
+Pakistan	Measles	11
+Pakistan	Crimean-Congo Hemorrhagic Fever	5
 Pakistan	Other Animal Disease	4
+Pakistan	Amoeba	3
 Pakistan	Cholera	3
 Pakistan	Newcastle Disease	3
 Pakistan	Diarrhea	2
 Pakistan	Foot and Mouth	2
 Pakistan	Hepatitis C	2
 Pakistan	Malaria	2
-Pakistan	Peste des petits ruminants	2
 Pakistan	Scabies	2
 Pakistan	Waterborne Illness	2
 Pakistan	Amebiasis	1
@@ -790,12 +789,13 @@ Pakistan	Anthrax	1
 Pakistan	Free Living Amoeba	1
 Pakistan	HIV/AIDS	1
 Pakistan	Other Plant Disease	1
+Pakistan	Peste des petits ruminants	1
 Pakistan	Tuberculosis	1
 Pakistan	Undiagnosed	1
-Palestinian Authority	Bluetongue	6
-Palestinian Authority	Waterborne Illness	2
+Palestinian Authority	Bluetongue	4
 Palestinian Authority	Dengue	1
 Palestinian Authority	Foot and Mouth	1
+Palestinian Authority	Waterborne Illness	1
 Palestinian Authority	West Nile Virus	1
 Panama	Dengue	3
 Panama	Influenza	3
@@ -806,20 +806,20 @@ Panama	C. difficile	1
 Panama	Hantavirus	1
 Papua New Guinea	Chikungunya	2
 Papua New Guinea	Tuberculosis	2
-Paraguay	Dengue	40
+Paraguay	Dengue	28
 Paraguay	Influenza	5
-Paraguay	Meningitis	4
+Paraguay	Meningitis	2
 Paraguay	Diarrhea	1
 Paraguay	Foot and Mouth	1
 Paraguay	Hospital-Related Infection	1
 Paraguay	Pneumonia	1
 Paraguay	Respiratory Illness	1
 Paraguay	Waterborne Illness	1
-Peru	Dengue	37
-Peru	Influenza	7
-Peru	Whooping Cough	7
+Peru	Dengue	28
+Peru	Influenza	6
 Peru	Rabies	6
-Peru	Foodborne Illness	5
+Peru	Whooping Cough	6
+Peru	Foodborne Illness	4
 Peru	Swine Flu H1N1	4
 Peru	Poisoning	3
 Peru	Pneumonia	2
@@ -832,15 +832,15 @@ Peru	Malaria	1
 Peru	Meningitis	1
 Peru	Salmonella	1
 Peru	Scabies	1
-Philippines	Dengue	45
-Philippines	Chikungunya	11
-Philippines	Hepatitis A	4
-Philippines	Not Yet Classified	4
+Philippines	Dengue	23
+Philippines	Chikungunya	10
+Philippines	Hepatitis A	3
 Philippines	Leptospirosis	3
 Philippines	Diarrhea	2
-Philippines	Foodborne Illness	2
 Philippines	Malaria	2
+Philippines	Not Yet Classified	2
 Philippines	Cold	1
+Philippines	Foodborne Illness	1
 Philippines	Gastroenteritis	1
 Philippines	HFM-Enterovirus71	1
 Philippines	Hand, Foot and Mouth Disease	1
@@ -850,54 +850,52 @@ Philippines	Waterborne Illness	1
 Poland	Poisoning	2
 Poland	Salmonella	2
 Poland	Schmallenberg	1
-Portugal	Dengue	41
-Portugal	Listeriosis	2
+Portugal	Dengue	17
+Portugal	Listeriosis	1
 Portugal	Malaria	1
 Portugal	Measles	1
-Qatar	Coronavirus	18
-Qatar	SARS	8
+Qatar	Coronavirus	8
+Qatar	SARS	3
 Qatar	Influenza	1
 Qatar	Not Yet Classified	1
-Republic of Congo	Ebola	11
-Republic of Congo	Measles	3
+Republic of Congo	Ebola	9
+Republic of Congo	Measles	2
 Republic of Congo	Diarrhea	1
 Republic of Congo	Hemorrhagic Fever	1
 Republic of Congo	Monkeypox	1
-Republic of Macedonia	West Nile Virus	4
-Romania	Newcastle Disease	4
+Republic of Macedonia	West Nile Virus	3
+Romania	Newcastle Disease	2
 Romania	Rabies	2
 Romania	Crimean-Congo Hemorrhagic Fever	1
 Romania	Not Yet Classified	1
 Romania	Other Animal Disease	1
 Romania	West Nile Virus	1
-Russia	African Swine Fever	103
-Russia	Gastroenteritis	46
-Russia	Anthrax	36
-Russia	West Nile Virus	31
-Russia	Salmonella	15
-Russia	Hepatitis A	14
-Russia	Dysentery	12
-Russia	Influenza	10
-Russia	Meningitis	10
+Russia	Gastroenteritis	36
+Russia	African Swine Fever	33
+Russia	West Nile Virus	17
+Russia	Salmonella	12
+Russia	Hepatitis A	10
+Russia	Dysentery	9
+Russia	Meningitis	9
+Russia	Anthrax	8
+Russia	Influenza	8
 Russia	Tularemia	8
-Russia	Poisoning	7
 Russia	Hantavirus	6
-Russia	Not Yet Classified	6
 Russia	Other Animal Disease	6
 Russia	Rabies	6
 Russia	Respiratory Illness	6
-Russia	Psittacosis	5
-Russia	Sheep/Goat Pox	5
-Russia	Tick-borne Encephalitis	5
+Russia	Poisoning	5
 Russia	Lyme Disease	4
 Russia	Norovirus	4
+Russia	Not Yet Classified	4
+Russia	Psittacosis	4
+Russia	Tick-borne Encephalitis	4
 Russia	Brucellosis	3
 Russia	Campylobacter	2
 Russia	Classical Swine Fever	2
 Russia	Hemorrhagic Fever	2
 Russia	Other Plant Disease	2
-Russia	Pneumonia	2
-Russia	Rotavirus	2
+Russia	Sheep/Goat Pox	2
 Russia	Trichinosis	2
 Russia	Typhoid	2
 Russia	Whooping Cough	2
@@ -907,22 +905,24 @@ Russia	HIV/AIDS	1
 Russia	Measles	1
 Russia	Other Human Disease	1
 Russia	Plague	1
+Russia	Pneumonia	1
+Russia	Rotavirus	1
 Russia	Swine Flu H1N1	1
 Russia	Trypanosomiasis	1
 Russia	Tuberculosis	1
-Samoa	Other Animal Disease	2
 Samoa	Leprosy	1
+Samoa	Other Animal Disease	1
 Sao Tome & Principe	Diarrhea	1
 Sao Tome & Principe	Gastroenteritis	1
-Saudi Arabia	Coronavirus	46
-Saudi Arabia	SARS	4
+Saudi Arabia	Coronavirus	15
 Saudi Arabia	Foodborne Illness	3
 Saudi Arabia	Meningitis	3
+Saudi Arabia	SARS	3
 Saudi Arabia	Foot and Mouth	2
-Saudi Arabia	Gastroenteritis	2
 Saudi Arabia	Not Yet Classified	2
 Saudi Arabia	Tuberculosis	2
 Saudi Arabia	Ebola	1
+Saudi Arabia	Gastroenteritis	1
 Saudi Arabia	Meningitis - Neisseria	1
 Saudi Arabia	Mumps	1
 Saudi Arabia	Other Human Disease	1
@@ -931,10 +931,10 @@ Saudi Arabia	Respiratory Illness	1
 Saudi Arabia	Typhoid	1
 Saudi Arabia	Undiagnosed	1
 Saudi Arabia	Yellow Fever	1
-Serbia	West Nile Virus	19
+Serbia	West Nile Virus	10
 Serbia	Encephalitis	1
 Serbia	Not Yet Classified	1
-Sierra Leone	Cholera	87
+Sierra Leone	Cholera	37
 Sierra Leone	Diarrhea	1
 Singapore	Influenza	4
 Singapore	HFM-Enterovirus71	1
@@ -946,40 +946,39 @@ Somalia	Cholera	3
 Somalia	Foot and Mouth	1
 Somalia	Measles	1
 South Africa	Influenza	8
-South Africa	Anthrax	6
-South Africa	Avian Influenza	6
+South Africa	Anthrax	5
+South Africa	Avian Influenza	2
 South Africa	Rabies	2
 South Africa	Measles	1
 South Africa	Meningitis	1
 South Africa	Scarlet Fever	1
 South Africa	Tuberculosis	1
-South Korea	Japanese Encephalitis	6
 South Korea	West Nile Virus	2
 South Korea	Algae	1
 South Korea	Avian Influenza	1
+South Korea	Japanese Encephalitis	1
 South Korea	Not Yet Classified	1
 South Sudan	Hepatitis E	4
 South Sudan	Guinea Worm	2
 South Sudan	Undiagnosed	2
-Spain	Legionnaires'	13
-Spain	Meningitis	10
-Spain	Salmonella	5
-Spain	BSE	4
-Spain	Listeriosis	4
+Spain	Legionnaires'	8
+Spain	Meningitis	6
+Spain	Salmonella	4
 Spain	Dengue	3
-Spain	E. coli	3
 Spain	Antibiotic resistance	2
+Spain	E. coli	2
 Spain	Gastroenteritis	2
-Spain	Influenza	2
+Spain	Listeriosis	2
 Spain	Measles	2
 Spain	Mumps	2
 Spain	Not Yet Classified	2
 Spain	Pneumonia	2
 Spain	Poisoning	2
-Spain	Scabies	2
+Spain	BSE	1
 Spain	Bovine TB	1
 Spain	Cholera	1
 Spain	Foodborne Illness	1
+Spain	Influenza	1
 Spain	Malaria	1
 Spain	Meningitis - Neisseria	1
 Spain	Other Human Disease	1
@@ -987,53 +986,54 @@ Spain	Other Plant Disease	1
 Spain	Pests	1
 Spain	Rabies	1
 Spain	Respiratory Illness	1
+Spain	Scabies	1
 Spain	Swine Flu H1N1	1
 Spain	Waterborne Illness	1
-Sri Lanka	Dengue	8
+Sri Lanka	Dengue	7
 Sri Lanka	Influenza	4
 Sri Lanka	Rabies	2
 Sri Lanka	Typhoid	2
 Sri Lanka	Chronic/Non-Infectious Disease	1
 Sri Lanka	Gastroenteritis	1
 Sri Lanka	Hemorrhagic Fever	1
-Sudan	Malaria	7
-Sudan	Leishmaniasis	5
-Sudan	Yellow Fever	4
-Sudan	Hepatitis E	3
+Sudan	Malaria	6
+Sudan	Leishmaniasis	4
+Sudan	Hepatitis E	2
 Sudan	Meningitis	2
 Sudan	Poisoning	2
 Sudan	Undiagnosed	2
+Sudan	Yellow Fever	2
 Sudan	Measles	1
 Sudan	Pests	1
 Sudan	Typhoid	1
-Swaziland	Undiagnosed	4
+Swaziland	Undiagnosed	3
 Swaziland	Environmental	1
-Sweden	Dengue	3
+Sweden	Dengue	2
 Sweden	Schmallenberg	1
 Sweden	Undiagnosed	1
-Switzerland	Schmallenberg	24
-Switzerland	Hepatitis C	2
+Switzerland	Schmallenberg	6
+Switzerland	Hepatitis C	1
 Switzerland	Influenza	1
 Switzerland	Other Plant Disease	1
 Switzerland	Rabies	1
 Switzerland	Whooping Cough	1
-Syria	Diarrhea	4
+Syria	Diarrhea	2
 Syria	Brucellosis	1
 Syria	Waterborne Illness	1
 Tajikistan	Typhoid	1
-Tanzania	Ebola	9
-Tanzania	Rabies	2
+Tanzania	Ebola	4
 Tanzania	Cholera	1
+Tanzania	Rabies	1
 Tanzania	Undiagnosed	1
 Tanzania	Waterborne Illness	1
 Thailand	Dengue	10
-Thailand	Rabies	6
-Thailand	Undiagnosed	4
-Thailand	Hand, Foot and Mouth Disease	3
+Thailand	Rabies	5
+Thailand	Undiagnosed	3
 Thailand	Melioidosis	2
 Thailand	Other Human Disease	2
 Thailand	Avian Influenza	1
 Thailand	HIV/AIDS	1
+Thailand	Hand, Foot and Mouth Disease	1
 Thailand	Influenza	1
 Thailand	Leptospirosis	1
 Thailand	Malaria	1
@@ -1043,31 +1043,31 @@ The Bahamas	Acinetobacter baumannii	1
 Trinidad & Tobago	Dengue	2
 Trinidad & Tobago	Hand, Foot and Mouth Disease	2
 Trinidad & Tobago	Other Plant Disease	1
-Tunisia	Peste des petits ruminants	17
-Tunisia	West Nile Virus	8
+Tunisia	Peste des petits ruminants	6
+Tunisia	West Nile Virus	6
 Tunisia	Hepatitis	1
 Turkey	Diarrhea	1
 Turkey	Malaria	1
-Uganda	Ebola	107
-Uganda	Marburg Fever	47
-Uganda	Not Yet Classified	13
-Uganda	Yellow Fever	5
+Uganda	Ebola	35
+Uganda	Marburg Fever	10
+Uganda	Not Yet Classified	7
+Uganda	Yellow Fever	4
 Uganda	Cholera	2
 Uganda	Diarrhea	1
 Uganda	Dysentery	1
 Uganda	Fever	1
 Uganda	Hepatitis B	1
-Ukraine	Gastroenteritis	17
-Ukraine	African Swine Fever	12
-Ukraine	Anthrax	9
-Ukraine	Dysentery	8
+Ukraine	Gastroenteritis	12
+Ukraine	African Swine Fever	8
+Ukraine	Dysentery	6
 Ukraine	Salmonella	6
 Ukraine	Influenza	5
 Ukraine	Measles	5
+Ukraine	Anthrax	4
 Ukraine	Meningitis	3
-Ukraine	Not Yet Classified	3
 Ukraine	Poisoning	3
 Ukraine	Classical Swine Fever	2
+Ukraine	Not Yet Classified	2
 Ukraine	BSE	1
 Ukraine	Undiagnosed	1
 United Arab Emirates	Foodborne Illness	3
@@ -1079,41 +1079,39 @@ United Arab Emirates	MRSA	1
 United Arab Emirates	Plague	1
 United Arab Emirates	Rabies	1
 United Arab Emirates	Typhoid	1
-United Kingdom	E. coli	38
-United Kingdom	Norovirus	37
-United Kingdom	Whooping Cough	32
-United Kingdom	Coronavirus	23
-United Kingdom	Measles	21
-United Kingdom	Other Animal Disease	18
-United Kingdom	Anthrax	15
-United Kingdom	Legionnaires'	13
-United Kingdom	Schmallenberg	13
-United Kingdom	Dengue	7
-United Kingdom	SARS	7
-United Kingdom	Salmonella	7
-United Kingdom	Undiagnosed	7
-United Kingdom	Algae	6
-United Kingdom	Animal Die-off	6
-United Kingdom	Mumps	6
-United Kingdom	Equine Infectious Anemia	5
-United Kingdom	Bovine TB	4
-United Kingdom	CJD	4
-United Kingdom	Crimean-Congo Hemorrhagic Fever	4
+United Kingdom	E. coli	24
+United Kingdom	Whooping Cough	23
+United Kingdom	Norovirus	19
+United Kingdom	Other Animal Disease	16
+United Kingdom	Measles	15
+United Kingdom	Coronavirus	13
+United Kingdom	Legionnaires'	11
+United Kingdom	Schmallenberg	9
+United Kingdom	Anthrax	8
+United Kingdom	Salmonella	6
+United Kingdom	Undiagnosed	6
+United Kingdom	Animal Die-off	5
+United Kingdom	SARS	5
+United Kingdom	Algae	4
+United Kingdom	Dengue	4
+United Kingdom	Equine Infectious Anemia	4
 United Kingdom	Gastroenteritis	4
-United Kingdom	Meningitis	4
+United Kingdom	Mumps	4
 United Kingdom	Other Plant Disease	4
 United Kingdom	Respiratory Illness	4
-United Kingdom	Rubella	4
+United Kingdom	Bovine TB	3
 United Kingdom	Cryptosporidium	3
-United Kingdom	Not Yet Classified	3
+United Kingdom	Meningitis	3
+United Kingdom	Rubella	3
 United Kingdom	Tuberculosis	3
+United Kingdom	CJD	2
+United Kingdom	Crimean-Congo Hemorrhagic Fever	2
 United Kingdom	Hepatitis C	2
 United Kingdom	Herpes	2
 United Kingdom	Influenza	2
 United Kingdom	Malaria	2
+United Kingdom	Not Yet Classified	2
 United Kingdom	Other Human Disease	2
-United Kingdom	Poisoning	2
-United Kingdom	Typhoid	2
 United Kingdom	Viral Meningitis	2
 United Kingdom	Antibiotic resistance	1
 United Kingdom	Bacterial Meningitis	1
@@ -1123,85 +1121,86 @@ United Kingdom	Food-related toxin	1
 United Kingdom	Hantavirus	1
 United Kingdom	P. aeruginosa	1
 United Kingdom	Pneumonia	1
+United Kingdom	Poisoning	1
 United Kingdom	Shigellosis	1
 United Kingdom	Strep	1
 United Kingdom	Toxoplasmosis	1
+United Kingdom	Typhoid	1
 United Kingdom	Waterborne Illness	1
-United States	Meningitis	1045
-United States	West Nile Virus	885
-United States	Waterborne Illness	426
-United States	Salmonella	333
-United States	Not Yet Classified	175
-United States	Whooping Cough	168
-United States	Listeriosis	166
-United States	Epizootic Hemorrhagic Disease	156
-United States	Swine Flu H3N2	132
-United States	Rabies	128
-United States	Eastern Equine Encephalitis	97
-United States	Hantavirus	83
-United States	E. coli	78
-United States	Environmental	70
-United States	Influenza	62
-United States	Dengue	34
-United States	Algae	30
-United States	Botulism	27
-United States	Animal Die-off	24
-United States	Syphilis	23
-United States	Fungal Meningitis	22
-United States	Pests	20
-United States	Chronic Wasting Disease	16
-United States	Chicken Pox	15
-United States	MRSA	15
-United States	Vesicular Stomatitis	15
-United States	Newcastle Disease	14
-United States	Plague	14
-United States	Tuberculosis	14
+United States	Waterborne Illness	86
+United States	West Nile Virus	80
+United States	Whooping Cough	70
+United States	Salmonella	69
+United States	Rabies	57
+United States	Epizootic Hemorrhagic Disease	50
+United States	Eastern Equine Encephalitis	49
+United States	Influenza	38
+United States	Listeriosis	36
+United States	Meningitis	36
+United States	Swine Flu H3N2	36
+United States	E. coli	34
+United States	Environmental	33
+United States	Not Yet Classified	32
+United States	Hantavirus	27
+United States	Dengue	25
+United States	Algae	21
+United States	Botulism	20
+United States	Animal Die-off	19
+United States	Syphilis	16
 United States	Legionnaires'	13
-United States	Canine distemper	12
-United States	Fever	12
-United States	Hand, Foot and Mouth Disease	12
-United States	Mycobacteria, non-TB	12
-United States	Other Animal Disease	12
-United States	Swine Flu H1N1	12
-United States	Anthrax	11
-United States	Norovirus	11
-United States	Hepatitis C	10
-United States	Valley Fever	10
-United States	Gastroenteritis	9
-United States	Other Plant Disease	9
+United States	Pests	13
+United States	Chicken Pox	12
+United States	Tuberculosis	12
+United States	Hand, Foot and Mouth Disease	11
+United States	MRSA	11
+United States	Plague	11
+United States	Anthrax	10
+United States	Chronic Wasting Disease	10
+United States	Fungal Meningitis	10
+United States	Norovirus	10
+United States	Vesicular Stomatitis	10
+United States	Canine distemper	9
+United States	Hepatitis C	9
 United States	Parvovirus	9
 United States	Scabies	9
+United States	Valley Fever	9
 United States	HFM-CoxsackieA	8
-United States	Antibiotic resistance	7
-United States	Babesiosis	7
-United States	Bacterial Meningitis	7
-United States	Encephalitis	7
-United States	Foot and Mouth	7
+United States	Gastroenteritis	7
 United States	Measles	7
-United States	Respiratory Illness	7
-United States	Undiagnosed	7
+United States	Swine Flu H1N1	7
+United States	Babesiosis	6
+United States	Bacterial Meningitis	6
+United States	Encephalitis	6
+United States	Newcastle Disease	6
+United States	Other Animal Disease	6
+United States	Respiratory Illness	6
 United States	Shigellosis	6
-United States	Strep	6
-United States	Typhus	6
-United States	Viral Meningitis	6
-United States	Aspergillosis	5
+United States	Undiagnosed	6
 United States	Cryptosporidium	5
-United States	Equine Herpes Virus	5
 United States	Gonorrhea	5
 United States	Lyme Disease	5
+United States	Other Plant Disease	5
+United States	Strep	5
 United States	Tick-borne disease	5
+United States	Typhus	5
+United States	Antibiotic resistance	4
+United States	Aspergillosis	4
 United States	Blastomycosis	4
-United States	Campylobacter	4
 United States	Conjunctivitis	4
+United States	Fever	4
+United States	Foot and Mouth	4
+United States	Mycobacteria, non-TB	4
 United States	Rash	4
+United States	Campylobacter	3
 United States	Canine Influenza	3
-United States	Cholera	3
+United States	Equine Herpes Virus	3
 United States	Other Human Disease	3
 United States	Paralytic Shellfish Poisoning	3
 United States	Pneumonia	3
 United States	Poisoning	3
 United States	Staph	3
 United States	Vibrio parahaemolyticus	3
+United States	Viral Meningitis	3
 United States	Arenavirus	2
 United States	Diarrhea	2
 United States	HIV/AIDS	2
@@ -1213,6 +1212,7 @@ United States	Bluetongue	1
 United States	Bronchitis/Bronchiolitis	1
 United States	Brucellosis	1
 United States	CJD	1
+United States	Cholera	1
 United States	Feline panleukopenia virus	1
 United States	Food-related toxin	1
 United States	Foodborne Illness	1
@@ -1239,9 +1239,9 @@ Uruguay	Syphilis	1
 Uruguay	Whooping Cough	1
 Uzbekistan	Not Yet Classified	1
 Uzbekistan	Sheep/Goat Pox	1
-Venezuela	Dengue	36
-Venezuela	Meningitis	16
-Venezuela	Cholera	3
+Venezuela	Dengue	25
+Venezuela	Meningitis	12
+Venezuela	Cholera	2
 Venezuela	Diarrhea	2
 Venezuela	Other Human Disease	2
 Venezuela	Undiagnosed	2
@@ -1254,37 +1254,37 @@ Venezuela	Leishmaniasis	1
 Venezuela	Not Yet Classified	1
 Venezuela	Respiratory Illness	1
 Venezuela	Swine Flu H1N1	1
-Vietnam	Avian Influenza	65
-Vietnam	Dengue	14
+Vietnam	Avian Influenza	27
+Vietnam	Dengue	11
 Vietnam	Hand, Foot and Mouth Disease	5
 Vietnam	Amoeba	4
-Vietnam	Conjunctivitis	3
 Vietnam	Food-related toxin	3
 Vietnam	Influenza	3
 Vietnam	Blue Ear	2
-Vietnam	Foodborne Illness	2
+Vietnam	Conjunctivitis	2
 Vietnam	Gastroenteritis	2
 Vietnam	HFM-Enterovirus71	2
 Vietnam	Not Yet Classified	2
 Vietnam	Rabies	2
-Vietnam	Strep	2
 Vietnam	Avian Cholera	1
+Vietnam	Foodborne Illness	1
 Vietnam	Pests	1
 Vietnam	Poisoning	1
 Vietnam	Respiratory Illness	1
+Vietnam	Strep	1
 Yemen	Dengue	6
 Yemen	Chikungunya	1
 Yemen	Foodborne Illness	1
 Yemen	Mumps	1
 Yemen	Undiagnosed	1
-Zambia	Cholera	10
+Zambia	Cholera	8
 Zambia	Ebola	2
 Zambia	Influenza	2
 Zambia	Foot and Mouth	1
 Zambia	Measles	1
 Zambia	Undiagnosed	1
-Zimbabwe	Anthrax	8
-Zimbabwe	Typhoid	4
+Zimbabwe	Anthrax	3
+Zimbabwe	Typhoid	2
 Zimbabwe	Diarrhea	1
 Zimbabwe	Influenza	1
 Zimbabwe	Trypanosomiasis	1
