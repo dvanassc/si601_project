@@ -1,3 +1,4 @@
+-- We will continue to use health_data_csv table instead of outbreaks table in order to capture all reports
 select case
         when strftime('%w', report_date) = '0' then 'Sunday'
         when strftime('%w', report_date) = '1' then 'Monday'
