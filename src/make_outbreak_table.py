@@ -15,6 +15,6 @@ with sqlite.connect('../HealthDataMap/health.db') as con:
 #Dump results into "outbreaks" table that we can subsequently use for outbreak-based analysis  
   cur.execute("DROP TABLE IF EXISTS outbreaks")
   cur.execute("CREATE TABLE outbreaks(country TEXT, disease TEXT, date_short TEXT, report_instances INT, avg_rating FLOAT)")
-  cur.executemany("INSERT INTO outbreaks VALUES (?, ?, ?, ?)", rows)
+  cur.executemany("INSERT INTO outbreaks VALUES (?, ?, ?, ?, ?)", rows)
 
 
