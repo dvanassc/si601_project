@@ -1,159 +1,158 @@
 disease	DISEASE_COUNT
-Dengue	1632
-Meningitis	1213
-West Nile Virus	1095
-Cholera	574
-Waterborne Illness	492
-Salmonella	465
-Not Yet Classified	425
-Anthrax	361
-Swine Flu H1N1	325
-Ebola	304
-Influenza	280
-Whooping Cough	250
-E. coli	245
-Avian Influenza	228
-Rabies	222
-Gastroenteritis	188
-Listeriosis	184
-Epizootic Hemorrhagic Disease	156
-Swine Flu H3N2	147
-Hantavirus	132
-African Swine Fever	129
-Measles	126
-Coronavirus	124
-Norovirus	109
-Legionnaires'	106
-Mumps	102
-Eastern Equine Encephalitis	97
-Malaria	89
-Poisoning	89
-Foodborne Illness	88
-Diarrhea	84
-Environmental	82
-Foot and Mouth	79
-Other Animal Disease	79
-Hand, Foot and Mouth Disease	74
-Polio	74
-Plague	73
-Tuberculosis	64
-Schmallenberg	57
-Chicken Pox	53
-Undiagnosed	52
-Other Plant Disease	50
-Animal Die-off	49
-Marburg Fever	47
-HIV/AIDS	46
-Pests	44
-Algae	42
-Respiratory Illness	41
-Chikungunya	39
-Hepatitis A	39
-Peste des petits ruminants	39
-Syphilis	39
-Typhoid	36
-Fever	35
-Botulism	31
-Dysentery	31
-Equine Infectious Anemia	30
-SARS	28
-Newcastle Disease	27
-Scabies	26
-Pneumonia	25
-Encephalitis	23
-Food-related toxin	22
-Fungal Meningitis	22
-MRSA	22
-Lumpy Skin Disease	21
-Yellow Fever	20
-Hepatitis C	19
+Dengue	728
+Cholera	259
+Influenza	233
+West Nile Virus	197
+Salmonella	161
+Swine Flu H1N1	155
+Meningitis	151
+Not Yet Classified	144
+Whooping Cough	141
+Gastroenteritis	139
+Waterborne Illness	134
+Rabies	133
+E. coli	112
+Ebola	107
+Measles	101
+Avian Influenza	96
+Anthrax	95
+Norovirus	78
+Malaria	77
+Diarrhea	76
+Poisoning	73
+Foodborne Illness	70
+Legionnaires'	70
+Other Animal Disease	62
+Hantavirus	61
+Tuberculosis	58
+African Swine Fever	54
+Epizootic Hemorrhagic Disease	50
+Hand, Foot and Mouth Disease	50
+Eastern Equine Encephalitis	49
+Listeriosis	49
+Coronavirus	47
+Swine Flu H3N2	47
+Undiagnosed	47
+Polio	46
+Environmental	44
+Other Plant Disease	43
+Chicken Pox	41
+Animal Die-off	40
+Foot and Mouth	40
+Respiratory Illness	40
+Mumps	36
+Pests	34
+Hepatitis A	32
+Schmallenberg	32
+Algae	31
+Chikungunya	31
+Syphilis	31
+Typhoid	31
+HIV/AIDS	27
+Plague	27
+Scabies	25
+Botulism	24
+Dysentery	24
+Pneumonia	23
+Fever	22
+Peste des petits ruminants	22
+Food-related toxin	21
+Encephalitis	20
 Other Human Disease	19
-Bluetongue	18
-Hepatitis	18
-Hemorrhagic Fever	17
-Japanese Encephalitis	17
-Antibiotic resistance	16
-Chronic Wasting Disease	16
-Conjunctivitis	16
-Scrub Typhus	16
-Canine distemper	15
-Chagas	15
-Crimean-Congo Hemorrhagic Fever	15
-Trichinosis	15
-Vesicular Stomatitis	15
-Brucellosis	14
+SARS	19
+Hepatitis C	17
+MRSA	17
+Equine Infectious Anemia	16
+Newcastle Disease	16
+Conjunctivitis	15
+Hepatitis	15
+Yellow Fever	15
 Parvovirus	14
-Babesiosis	13
-Tularemia	13
-Classical Swine Fever	12
+Trichinosis	14
+Hemorrhagic Fever	13
+Scrub Typhus	13
+Antibiotic resistance	12
+Bluetongue	12
+Brucellosis	12
+Canine distemper	12
+Crimean-Congo Hemorrhagic Fever	12
 Lyme Disease	12
-Mycobacteria, non-TB	12
-Amoeba	11
-Bacterial Meningitis	11
-C. difficile	11
+Chagas	11
 Meningitis - Neisseria	11
-Rift Valley Fever	10
-Strep	10
-Valley Fever	10
-Bovine TB	9
+Tularemia	11
+Bacterial Meningitis	10
+Chronic Wasting Disease	10
+Fungal Meningitis	10
+Marburg Fever	10
+Vesicular Stomatitis	10
+Amoeba	9
+Babesiosis	9
+C. difficile	9
 Chronic/Non-Infectious Disease	9
+Classical Swine Fever	9
 HFM-Enterovirus71	9
-Leishmaniasis	9
-Leprosy	9
 Leptospirosis	9
-Rocky Mountain Spotted Fever	9
-Viral Meningitis	9
+Valley Fever	9
+Bovine TB	8
 Cryptosporidium	8
 Guinea Worm	8
 HFM-CoxsackieA	8
-Hepatitis E	8
-CJD	7
-Campylobacter	7
-Sheep/Goat Pox	7
+Leishmaniasis	8
+Lumpy Skin Disease	8
+Rift Valley Fever	8
+Rocky Mountain Spotted Fever	8
+Strep	8
+Hepatitis E	7
+Japanese Encephalitis	7
+Leprosy	7
 Shigellosis	7
 Tick-borne disease	7
-Aspergillosis	6
-BSE	6
-Bovine Pleuropneumonia	6
 Bronchitis/Bronchiolitis	6
+Campylobacter	6
 Gonorrhea	6
-Typhus	6
 Vibrio parahaemolyticus	6
-Equine Herpes Virus	5
+Viral Meningitis	6
+Aspergillosis	5
+CJD	5
 Hospital-Related Infection	5
 Lice	5
 Melioidosis	5
-Psittacosis	5
 Ringworm	5
-Tick-borne Encephalitis	5
 Trypanosomiasis	5
+Typhus	5
 Vaccine Complication	5
 Blastomycosis	4
-Hepatitis B	4
-Monkeypox	4
+Bovine Pleuropneumonia	4
+Mycobacteria, non-TB	4
 Nipah/Hendra Virus	4
+Psittacosis	4
 Rash	4
-Rubella	4
-Sexually Transmitted Infection	4
+Sheep/Goat Pox	4
 Staph	4
+Tick-borne Encephalitis	4
+BSE	3
 Canine Influenza	3
 Diphtheria	3
 Echinococcosis	3
-Enterovirus	3
+Equine Herpes Virus	3
+Hepatitis B	3
 Herpes	3
-Human Bocavirus	3
 Lassa Fever	3
+Monkeypox	3
 P. aeruginosa	3
 Paralytic Shellfish Poisoning	3
 Protozoa, miscellaneous	3
-Rotavirus	3
+Rubella	3
+Sexually Transmitted Infection	3
 Arenavirus	2
 Blue Ear	2
 Enterococcus	2
+Enterovirus	2
 Equine Influenza	2
 Histoplasmosis	2
 Myiasis	2
 Rickettsia	2
+Rotavirus	2
 Vibrio vulnificus	2
 Acinetobacter baumannii	1
 Amebiasis	1
@@ -163,6 +162,7 @@ Cold	1
 Feline panleukopenia virus	1
 Filariasis	1
 Free Living Amoeba	1
+Human Bocavirus	1
 La Crosse Encephalitis	1
 Onchocerciasis	1
 Otitis media	1
