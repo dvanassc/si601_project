@@ -25,7 +25,9 @@ with open('../HealthDataMap/un_pop_data.csv','rU') as csvfile:
     popreader = csv.reader(csvfile)
     data = []
     for row in popreader:
-        l =(make_unicode(row[0]),make_unicode(row[1]),make_unicode(row[65]))
+        x = row[65].split(',')
+        pop = ''.join(x)
+        l =(make_unicode(row[0]),make_unicode(row[1]),int(pop))
         data.append(l)        
         
 with sqlite.connect('../HealthDataMap/health.db') as con: 
