@@ -1,2 +1,5 @@
--- Average and max number reports 
-SELECT country, sum(Report_Instances), count(*), avg(Report_Instances),  max(Report_Instances) FROM outbreaks GROUP BY country
+-- Average and max number reports per disease outbreak per country
+SELECT country, sum(Report_Instances) as TOTAL_REPORTS, count(*) as TOTAL_OUTBREAKS, 
+  avg(Report_Instances) as AVG_REPORTS_PER_OUTBREAK,  max(Report_Instances) as MAX_REPORT_INSTANCES 
+FROM outbreaks 
+GROUP BY country
