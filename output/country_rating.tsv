@@ -1,152 +1,152 @@
-country	AVG_RATING	DISEASE_COUNT
+country	AVG_RATING	NUM_OUTBREAKS
 Afghanistan	3.0	5
 Albania	2.6	5
 Algeria	2.4375	16
-Angola	3.13888888889	36
-Argentina	2.92233009709	206
-Armenia	3.33333333333	9
-Australia	2.67391304348	92
-Austria	2.83333333333	6
-Azerbaijan	3.2	5
+Angola	3.16071428571	28
+Argentina	2.931043257	131
+Armenia	3.35714285714	7
+Australia	2.67283950617	81
+Austria	2.8	5
+Azerbaijan	3.125	4
 Bahrain	2.0	2
 Bangladesh	3.0	3
 Barbados	3.0	1
 Belarus	1.0	2
-Belgium	2.82352941176	17
-Benin	3.0	5
-Bhutan	3.0	14
-Bolivia	2.9	30
-Brazil	2.99159663866	476
+Belgium	2.8	15
+Benin	2.875	4
+Bhutan	3.0	11
+Bolivia	2.88	25
+Brazil	2.96355385869	216
 Bulgaria	2.5	2
 Burkina Faso	4.0	1
 Burundi	5.0	1
-Cambodia	2.71428571429	21
-Cameroon	3.25	4
-Canada	2.62373737374	396
-Cape Verde	3.66666666667	3
+Cambodia	2.68421052632	19
+Cameroon	3.16666666667	3
+Canada	2.60720164609	243
+Cape Verde	3.5	2
 Central African Republic	3.0	1
 Chad	3.2	5
-Chile	2.93650793651	63
-China	3.18407960199	1005
-Colombia	3.09523809524	63
-Costa Rica	3.0	27
+Chile	2.92045454545	44
+China	2.87248628011	335
+Colombia	3.01111111111	45
+Costa Rica	2.95238095238	21
 Cote d'Ivoire	3.0	5
-Croatia	2.88888888889	9
-Cuba	3.24358974359	78
-Czech Republic	2.75	8
-DR Congo	3.87623762376	202
-Denmark	3.2	15
-Dominican Republic	3.14516129032	124
+Croatia	3.0	5
+Cuba	3.04356060606	44
+Czech Republic	2.71428571429	7
+DR Congo	3.54200542005	82
+Denmark	3.14285714286	7
+Dominican Republic	3.08640873016	72
 Ecuador	3.0	12
-Egypt	3.04455445545	202
-El Salvador	3.08823529412	68
+Egypt	2.78990384615	104
+El Salvador	3.06730769231	52
 Estonia	3.2	5
-Ethiopia	3.7	10
+Ethiopia	3.25	4
 Fiji	2.33333333333	3
-Finland	1.4	5
-France	2.76119402985	67
-Gambia	3.14285714286	7
-Germany	3.15789473684	95
-Ghana	3.04166666667	24
-Greece	2.86274509804	51
-Guatemala	3.15	20
-Guinea	3.73333333333	90
-Guinea-Bissau	4.0	4
+Finland	1.66666666667	3
+France	2.73684210526	57
+Gambia	3.2	5
+Germany	2.93502747253	52
+Ghana	3.0	23
+Greece	2.8125	28
+Guatemala	3.16666666667	15
+Guinea	3.77518518519	30
+Guinea-Bissau	3.66666666667	3
 Guyana	1.0	1
-Haiti	3.48484848485	33
-Honduras	2.94736842105	95
-Hungary	2.85714285714	7
-Iceland	3.0	4
-India	3.08541666667	480
-Indonesia	3.15384615385	52
-Iran	3.6875	16
-Iraq	4.05555555556	18
-Ireland	2.33333333333	18
-Israel	2.7	40
-Italy	3.11111111111	36
-Jamaica	2.91666666667	12
-Japan	2.875	32
-Jordan	3.0	16
-Kazakhstan	2.72727272727	11
-Kenya	3.02173913043	46
+Haiti	3.4375	20
+Honduras	2.94975490196	68
+Hungary	2.83333333333	6
+Iceland	3.0	3
+India	3.03316826047	244
+Indonesia	2.9268707483	35
+Iran	2.65909090909	4
+Iraq	3.76923076923	13
+Ireland	2.25	16
+Israel	2.76086956522	23
+Italy	3.07638888889	24
+Jamaica	2.90909090909	11
+Japan	2.5130952381	20
+Jordan	3.05128205128	13
+Kazakhstan	2.65	10
+Kenya	2.94298245614	38
 Kuwait	3.33333333333	3
-Kyrgyzstan	3.11111111111	9
+Kyrgyzstan	3.0	6
 Laos	3.0	1
-Latvia	2.5	6
+Latvia	2.625	4
 Lebanon	1.5	2
-Liberia	3.5	2
+Liberia	3.5	1
 Libya	3.0	1
 Madagascar	2.625	8
-Malawi	3.375	8
+Malawi	3.16666666667	6
 Malaysia	2.94117647059	17
-Mali	3.4	10
+Mali	3.25	7
 Malta	3.5	2
 Marshall Islands	3.0	1
-Mauritania	3.25	12
+Mauritania	3.16666666667	9
 Mauritius	3.0	1
-Mexico	2.90797546012	652
+Mexico	2.80884779472	253
 Moldova	3.0	2
-Mongolia	3.0	2
-Morocco	2.84615384615	13
+Mongolia	3.0	1
+Morocco	2.72727272727	11
 Mozambique	3.0	1
 Myanmar	3.0	8
 Namibia	3.0	6
-Nepal	3.0	40
-Netherlands	2.90625	32
-New Zealand	2.69642857143	56
-Nicaragua	2.92857142857	14
-Niger	3.6	5
-Nigeria	3.14545454545	55
-Norway	2.77777777778	9
+Nepal	3.00961538462	26
+Netherlands	2.86	20
+New Zealand	2.64666666667	50
+Nicaragua	2.9	10
+Niger	3.625	4
+Nigeria	3.14957264957	39
+Norway	2.71428571429	7
 Oman	2.5	2
-Pakistan	3.13669064748	139
-Palestinian Authority	2.90909090909	11
+Pakistan	3.11298076923	104
+Palestinian Authority	2.9375	8
 Panama	2.57142857143	14
 Papua New Guinea	2.75	4
-Paraguay	2.98181818182	55
-Peru	3.0	82
-Philippines	2.9375	80
+Paraguay	2.9918699187	41
+Peru	3.00714285714	70
+Philippines	2.85471698113	53
 Poland	2.6	5
-Portugal	3.02222222222	45
-Qatar	3.46428571429	28
-Republic of Congo	3.88235294118	17
-Republic of Macedonia	3.25	4
-Romania	2.8	10
-Russia	2.82666666667	375
-Samoa	3.0	3
+Portugal	3.07083333333	20
+Qatar	3.41666666667	13
+Republic of Congo	3.89285714286	14
+Republic of Macedonia	3.16666666667	3
+Romania	2.75	8
+Russia	2.71887686549	229
+Samoa	3.0	2
 Sao Tome & Principe	3.0	2
-Saudi Arabia	3.08219178082	73
-Serbia	2.95238095238	21
-Sierra Leone	3.75	88
+Saudi Arabia	2.935	40
+Serbia	2.88888888889	12
+Sierra Leone	3.59356725146	38
 Singapore	2.25	8
 Slovakia	3.0	2
 Somalia	3.6	5
-South Africa	2.96153846154	26
-South Korea	2.90909090909	11
+South Africa	2.90476190476	21
+South Korea	2.83333333333	6
 South Sudan	3.125	8
-Spain	3.06944444444	72
-Sri Lanka	2.63157894737	19
-Sudan	3.14285714286	28
-Swaziland	3.0	5
-Sweden	3.0	5
-Switzerland	2.9	30
-Syria	3.16666666667	6
+Spain	2.97685185185	54
+Sri Lanka	2.63888888889	18
+Sudan	3.15217391304	23
+Swaziland	3.0	4
+Sweden	3.0	4
+Switzerland	2.77272727273	11
+Syria	3.08333333333	4
 Tajikistan	3.0	1
-Tanzania	3.07142857143	14
-Thailand	2.94117647059	34
+Tanzania	2.84375	8
+Thailand	2.93333333333	30
 The Bahamas	3.0	1
 Trinidad & Tobago	3.0	5
-Tunisia	2.80769230769	26
+Tunisia	2.89743589744	13
 Turkey	3.0	2
-Uganda	3.67415730337	178
-Ukraine	2.81333333333	75
+Uganda	3.31499390079	62
+Ukraine	2.74425287356	58
 United Arab Emirates	2.76923076923	13
-United Kingdom	2.88181818182	330
-United States	2.64088754847	4642
+United Kingdom	2.84375886525	235
+United States	2.58396280814	1221
 Uruguay	3.0	6
 Uzbekistan	2.0	2
-Venezuela	2.94285714286	70
-Vietnam	3.13913043478	115
+Venezuela	2.93518518519	54
+Vietnam	2.97808517773	71
 Yemen	2.9	10
-Zambia	3.17647058824	17
-Zimbabwe	3.125	16
+Zambia	3.06666666667	15
+Zimbabwe	2.89814814815	9
