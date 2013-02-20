@@ -1,4 +1,4 @@
-country	sum(Report_Instances)	count(*)	avg(Report_Instances)	max(Report_Instances)
+country	TOTAL_REPORTS	TOTAL_OUTBREAKS	AVG_REPORTS_PER_OUTBREAK	MAX_REPORT_INSTANCES
 Afghanistan	5	5	1.0	1
 Albania	5	5	1.0	1
 Algeria	16	16	1.0	1
