@@ -1,1 +1,1 @@
-SELECT country, avg(rating) as AVG_RATING, count(*) as DISEASE_COUNT FROM health_data_csv GROUP BY country
+SELECT country, avg(avg_rating) as AVG_RATING, count(*) as NUM_OUTBREAKS FROM outbreaks GROUP BY country
