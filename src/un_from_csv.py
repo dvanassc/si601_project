@@ -21,14 +21,14 @@ def make_unicode(x):
         return unicode(byte_text)
 
 
-with open('../HealthMapData/un_pop_data.csv','rU') as csvfile:
+with open('../HealthDataMap/un_pop_data.csv','rU') as csvfile:
     popreader = csv.reader(csvfile)
     data = []
     for row in popreader:
         l =(make_unicode(row[0]),make_unicode(row[1]),make_unicode(row[65]))
         data.append(l)        
         
-with sqlite.connect('../HealthMapData/health.db') as con: 
+with sqlite.connect('../HealthDataMap/health.db') as con: 
   cur = con.cursor() 
   cur.execute("DROP TABLE IF EXISTS populations")
   cur.execute("CREATE TABLE populations(Country TEXT, ISO_Code TEXT, Population_2012 INTEGER)")
