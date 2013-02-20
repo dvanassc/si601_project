@@ -27,12 +27,12 @@ with open('../HealthDataMap/un_pop_data.csv','rU') as csvfile:
     for row in popreader:
         x = row[65].split(',')
         pop = ''.join(x)
-        l =(make_unicode(row[0]),make_unicode(row[1]),int(pop))
+        l =(make_unicode(row[0]),make_unicode(row[1]),float(pop))
         data.append(l)        
         
 with sqlite.connect('../HealthDataMap/health.db') as con: 
   cur = con.cursor() 
   cur.execute("DROP TABLE IF EXISTS populations")
-  cur.execute("CREATE TABLE populations(Country TEXT, ISO_Code TEXT, Population_2012 INTEGER)")
+  cur.execute("CREATE TABLE populations(Country TEXT, ISO_Code TEXT, Population_2012 FLOAT)")
   cur.executemany("INSERT INTO populations VALUES (?, ?, ?)", data)
 
