@@ -1,3 +1,4 @@
+--Reports (not outbreaks) per capita for a given country
 select h.country, count(*) as reports,p.population_2012,(count(*)/p.population_2012) as reports_country_percap
 from health_data_csv as h
 join populations as p on (h.country=p.country)
