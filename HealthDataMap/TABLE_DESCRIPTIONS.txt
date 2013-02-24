@@ -1,26 +1,5 @@
 Time range: 91 days, from 8th July  to 8th November, 2012
 
-diseases versus alerts on time (91 days, from 8th July  to 8th November)
-table (csv) 
-[ disease name | day1  n° alerts | day 2 n° alerts | … | day 91 n° alerts ]
-aprox. dimensions 95x250
-diseasesTime.csv
-
-
-countries versus diseases 
-table (csv)
-[ country name | disease 0 n° alerts | disease 1 n° alerts | … | disease 228 n° alerts ]
-aprox. dimensions 150x150
-countriesDiseases.csv
-
-
-single disease: Meningitis (91 days, from 8th July  to 8th November)
-table (csv)
-[ country name | day1  n° alerts | day 2 n° alerts | … | day 91 n° alerts ]
-aprox. dimensions 95x25
-MeningitisTime.csv
-
-
 comprehensive table 
 table (csv)
 Note: this file uses UTF-8 text encoding
