@@ -15,3 +15,6 @@ execfile('un_from_csv.py')
 
 ## 4 - Run all sql queries found in the ../queries folder
 execfile('run_simple_queries.py')
+
+## 5 - Run link analysis
+execfile('languages.py')

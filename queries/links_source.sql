@@ -1,1 +1,1 @@
-SELECT link AS LINKS FROM health_data_csv
+SELECT link FROM health_data_csv
